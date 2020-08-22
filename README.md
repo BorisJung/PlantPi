@@ -1,2 +1,2 @@
 # PlantPi
- Raspberry Pi based sensor and actor server
+ Raspberry Pi based sensor and actuator server
